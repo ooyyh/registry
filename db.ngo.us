@@ -13,6 +13,11 @@ $TTL 86400
 @		IN	NS	ns2.afraid.org.
 @		IN	NS	ns1.1984hosting.com.
 
+; Happy Cat Foundation
+; Submitted by networking team <laowan345@gmail.com>
+ooyyh 86400 IN NS dante.ns.cloudflare.com.
+ooyyh 86400 IN NS rachel.ns.cloudflare.com.
+
 ; NS Records
 client		IN	NS	paloma.ns.cloudflare.com.
 client		IN	NS	sergi.ns.cloudflare.com.
